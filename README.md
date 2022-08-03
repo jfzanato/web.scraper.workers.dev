@@ -16,7 +16,7 @@ Web Scraper makes it effortless to scrape websites. You provide a URL and CSS se
 {"result":["Example Domain"]}
 ```
 
-### Profile details from github.com profile page
+### Profile details from github.com profile pagedd
 
 [web.scraper.workers.dev/?url=github.com/adamschwartz&selector=.vcard-fullname,.d-md-block+[itemprop=worksFor],.d-md-block+[itemprop=homeLocation]&pretty=true](https://web.scraper.workers.dev/?url=https://github.com/adamschwartz&selector=.vcard-fullname,.d-md-block+[itemprop=worksFor],.d-md-block+[itemprop=homeLocation]&pretty=true)
 
